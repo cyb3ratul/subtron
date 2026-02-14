@@ -1,6 +1,6 @@
 #!/bin/bash
 # Advanced Subdomain Enumeration Script (Silent Mode)
-# Author:@atulxerma
+# Author:@cyberatul
 
 set -euo pipefail
 
