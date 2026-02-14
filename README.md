@@ -88,5 +88,5 @@ The author is not responsible for misuse or illegal activities.
 
 ## ✨ Author
 
-Created by @atulxerma
+Created by @cyb3ratul
 
