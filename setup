@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Setup Script for Subdomain Enumeration Toolkit
-# Author: @atulxerma (improved)
+# Author: @cyberatul
 set -euo pipefail
 
 GREEN="\033[0;32m"
